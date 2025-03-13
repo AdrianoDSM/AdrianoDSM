@@ -17,6 +17,7 @@ I'm a passionate developer from Brazil, always eager to learn and grow in the te
   <img align="center" alt="Adriano-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Adriano-Prisma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
   <img align="center" alt="Adriano-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Adriano-Zod" height="30" width="40" src="https://raw.githubusercontent.com/colinhacks/zod/main/logo.svg">
 </div>
   
   ##
