@@ -3,7 +3,7 @@
 I'm a passionate developer from Brazil, always eager to learn and grow in the tech world. I love turning ideas into reality through code, and I'm constantly exploring new technologies to improve my skills. Whether it's building responsive web apps, optimizing code, or diving into data analysis, I'm all in!
 
 ### Goals 🎯
-- **Improving my backend knowledge**: Deepening my understanding of backend technologies like Node.js, databases, and APIs.
+- **Improving my backend knowledge**: Deepening my understanding of backend technologies.
 - **Developing a fullstack RPG application**: Building a complete RPG-themed app to combine my passion for gaming and coding.
 - **Creating a personal fullstack project for RPG enthusiasts**: Developing a tool or platform tailored to the RPG community, helping players and game masters enhance their experiences.
 
